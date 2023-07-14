@@ -1,0 +1,28 @@
+.SignupForm{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(136 136 206) 35%, rgba(0,212,255,1) 100%);
+}
+
+.SignupForm .card{
+    width: 500px;
+    text-align: left;
+}
+
+.SignupForm label{
+    font-weight: bold;
+}
+
+.errormsg{
+    color: red;
+}
+
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #f093fb;
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to bottom right, rgb(190, 248, 185), rgb(87, 245, 119))
+    }

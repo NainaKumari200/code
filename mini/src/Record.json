@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Ayesha Shergill",
+        "icon":"i",
+        "detail":"Edited files mailed to mrs. Naina patel"
+    },
+    {
+        "id":2,
+        "name":"Neha Shergill",
+        "icon":"i",
+        "detail":"Edited files mailed to mrs. Naina patel"
+    },
+    {
+        "id":3,
+        "name":"Nikhil Shergill",
+        "icon":"i",
+        "detail":"Edited files mailed to mrs. Naina patel"
+    },
+    {
+        "id":4,
+        "name":"Nishant Shergill",
+        "icon":"i",
+        "detail":"Edited files mailed to mrs. Naina patel"
+    }
+]
